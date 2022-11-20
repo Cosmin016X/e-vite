@@ -1,15 +1,8 @@
 # 🎬Search-Movies-React
-![image](https://drive.google.com/uc?export=view&id=1hpyoDoeaGkJYiP4a3zDN82fyxqTpWmRW)
-
-## 🚀DEMO
- [Deploy](https://search-movies-react.vercel.app/)
-
-## 💻Tutorial
-[YouTube](https://youtu.be/5wWA69U4HOk)
 
 ## 📦Getting Started
 ```
-git clone https://github.com/garu2/Search-Movies-React.git
+git clone https://github.com/Cosmin016X/e-vite.git
 ```
 ```
 cd Search-Movies-React
